@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bab9_2018057</string>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="deskription_menu">Sepatu edisi terbatas Air Jordan 1 x Dior dalam versi High dan Low akan tersedia bagi pelanggan yang lebih dulu datang, dengan sistem first come, first serve melalui microsite khusus.</string>
+    <string name="ingredients">Diskon minggu ini 20% OFF</string>
+    <string name="price">Harga :</string>
+    <string name="Harga_Cenil">Rp.5.000.000</string>
+    <string name="navigation_drawer_open">Open NavigationDrawer</string>
+    <string name="navigation_drawer_close">Close NavigationDrawer</string>
+    <string-array name="Sepatu">
+        <item>Jordan</item>
+        <item>New Balance</item>
+        <item>Adidas</item>
+    </string-array>
+    <string-array name="Star">
+        <item>4.6</item>
+        <item>4.7</item>
+        <item>4.5</item>
+    </string-array>
+    <string-array name="Deskripsi">
+        <item>5.000.000</item>
+        <item>2.000.000</item>
+        <item>1.000.000</item>
+    </string-array>
+</resources>
